@@ -1,5 +1,6 @@
 ion-content{
 
+
 }
 ion-card{
   position: absolute;
@@ -38,7 +39,27 @@ ion-card{
   width: 620px;
   height: 685px;
   left: -170px;
-  top:-200px;
+  top:-170px;
+}
+
+.div2{
+position: fixed;
+border-radius: 360px;
+background:linear-gradient(to right,	#D2691E,#00008B);
+width: 300px;
+height:300px;
+left:-120px;
+top:550px;
+}
+.div3{
+  position: fixed;
+  border-radius: 360%;
+  background:linear-gradient(to right,	#D2691E,#00008B);
+  width: 400px;
+  height: 400px;
+  top: 540px;
+  left: 50px;
+
 }
 
 
