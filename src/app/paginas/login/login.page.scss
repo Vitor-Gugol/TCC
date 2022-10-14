@@ -1,0 +1,156 @@
+ion-card{
+  position: absolute;
+  top: 10px;
+  left: 45px;
+  width: 160px;
+  height: 50x;
+  border-radius:0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background:rgba(13, 17, 123, 0.14);
+
+}
+ .img{
+  margin-left:8px;
+  margin-top:0px;
+  width: 140px;
+  height: 90px;
+ }
+
+ p{
+  margin-top: 0%;
+  margin:0px;
+  text-align: center;
+  font-family: 'Righteous';
+  font-style: normal;
+  font-weight: 40;
+  font-size: 28px;
+  color: #000000;
+}
+
+
+.div{
+  position: absolute;
+  border-radius: 500px;
+  background: rgba(13, 17, 123, 0.84);
+  width: 620px;
+  height: 685px;
+  left: -170px;
+  top:-300px;
+}
+
+.div2{
+position: fixed;
+border-radius: 360px;
+background:linear-gradient(to right,	#D2691E,#00008B);
+width: 300px;
+height:300px;
+left:-120px;
+top:550px;
+}
+.div3{
+  position: fixed;
+  border-radius: 360%;
+  background:linear-gradient(to right,	#D2691E,#00008B);
+  width: 400px;
+  height: 400px;
+  top: 540px;
+  left: 50px;
+
+}
+.div4{
+position: fixed;
+border-radius: 20px;
+width:200px;
+height:10px;
+background:rgba(13, 17, 123, 0.14);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+top: 140px;
+left: 40px;
+
+}
+.cardLogin{
+  background: white;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 17px;
+  top: 150px;
+  left: 9px;
+  width: 230px;
+  height: 330px;
+}
+.username{
+  background:rgba(13, 17, 123, 0.84);
+  top: 60px;
+  left: 10px ;
+  width: 180px;
+  height: 30px;
+  border-radius:5px;
+}
+
+.password{
+  background:rgba(13, 17, 123, 0.84);
+  top: 110px;
+  left: 10px;
+  width: 180px;
+  height: 30px;
+  border-radius: 5px;
+}
+h3{
+color: #000000;
+position: absolute;
+width: 187px;
+height: 1px;
+left: 50px;
+top: 20px;
+
+font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 20px;
+}
+ion-input{
+  margin-left: 10px;
+  color: white;
+}
+
+ion-item{
+  position: absolute;
+top: 170px;
+width: 140px;
+height: 30px;
+background-color: opacity($color: #e6e6e6);
+
+ion-checkbox{
+width: 9px;
+height: 9px;
+top:0px;
+left: 0%;
+}
+
+ion-label{
+  position: absolute;
+  font-family: 'Montserrat';
+  font-size: 13px;
+  color: blue;
+  margin: 0%;
+}
+}
+h5{
+  position: absolute;
+width: 128px;
+height: 17px;
+left: 34px;
+top: 190px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+color:blue;
+}
+
+
